@@ -5,6 +5,7 @@
   font-style: normal;
   src: url('../assets/fonts/ubuntu-regular.woff2')  format('woff2'); 
   src: url('../assets/fonts/ubuntu-regular.woff')  format('woff'); 
+  font-display: swap;
 }
 
 html {
